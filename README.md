@@ -21,14 +21,14 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Your Current Project]**
-- 🌱 I’m currently learning **[What you are learning]**
-- 👯 I’m looking to collaborate on **[Types of projects you want to collaborate on]**
-- 🤔 I’m looking for help with **[Where you need help]**
-- 💬 Ask me about **[Topics you are knowledgeable in]**
-- 📫 How to reach me: **anurag.phukan@example.com**
+- 🔭 I’m currently working on **RAG (Retrieval-Augmented Generation) models to build a Medical Literature Assistant.**
+- 🌱 I’m currently learning **C# and the .NET framework.**
+- 👯 I’m looking to collaborate on **open-source projects related to AI in healthcare or .NET applications.**
+- 🤔 I’m looking for help with **optimizing language model inference speeds.**
+- 💬 Ask me about **Python, Natural Language Processing, and building AI-powered apps.**
+- 📫 How to reach me: **anurag.phukan.dev@gmail.com** (This is a sample email, please change it)
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **[A fun fact about you]**
+- ⚡ Fun fact: **I believe the best debugger ever made is a good night's sleep.**
 
 <hr>
 
@@ -36,15 +36,18 @@
 
 **Languages:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 **Frameworks & Libraries:**
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pytorch/pytorch.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+
 
 **Databases:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
