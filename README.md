@@ -1,83 +1,124 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Anurag%20Phukan&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=210&section=header&text=Anurag%20Phukan&fontSize=72&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20MSc%20Artificial%20Intelligence&descAlignY=58&descSize=18" alt="Anurag Phukan banner" />
 </div>
 
 <div align="center">
-  <h3>Full-Stack Software Engineer | MSc Artificial Intelligence</h3>
-  <p>Expertise in designing and delivering scalable web applications, APIs, and cloud-based systems. Currently transitioning AI research prototypes into production-ready systems at the University of Nottingham.</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=E100FF&center=true&vCenter=true&width=900&lines=Building+production-ready+AI+systems;LLM+apps+%7C+RAG+pipelines+%7C+Agentic+workflows;Full-stack+platforms+with+clean+APIs;Turning+research+prototypes+into+usable+products" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <a href="mailto:anuragphukanuk5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-anuragphukanuk5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/anurag-phukan-90b382191/">
+    <img src="https://img.shields.io/badge/LinkedIn-Anurag%20Phukan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AnuragPhukan">
+    <img src="https://img.shields.io/badge/GitHub-AnuragPhukan-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=AnuragPhukan&style=for-the-badge&color=blueviolet" />
+</p>
+
+---
+
+## 👋 About Me
+
+I am an **AI Engineer and Full-Stack Software Developer** based in the UK, focused on building reliable AI products that combine backend engineering, retrieval pipelines, workflow automation, and clean user-facing product experiences.
+
+- 🔭 Currently working as **Lead AI Engineer at Kenja AI**, delivering AI-enabled product features, automation workflows, and production-ready systems.
+- 🧠 Previously worked at the **University of Nottingham** on **Mediheal**, a biomedical literature assistant built with LLMs, RAG, vector search, document parsing, and source-traceable retrieval.
+- ⚙️ I build with **Python, Java, TypeScript, React, Spring Boot, Flask, FastAPI, REST APIs, PostgreSQL, MongoDB, Docker, Kubernetes, Azure, AWS, Qdrant, LLaMA, LoRA, and RAG pipelines**.
+- 🚀 Current focus: **production LLM applications, agentic workflows, RAG evaluation, cloud deployment, and full-stack AI products**.
+
+---
+
+## 🚀 Impact Snapshot
+
+| Area | Highlight |
+|---|---|
+| 🧬 Biomedical AI | Built a full-stack RAG assistant using Flask, Semantic Scholar API ingestion, Qdrant vector indexing, PDF parsing, LLaMA-3.1-8B, LoRA, and BART summarisation |
+| 📈 Evaluation | Improved model perplexity from **15.36 → 2.8**, achieved **0.49 F1**, and received **9/10 median ease-of-use** from medical researchers |
+| 💻 Full-Stack Platforms | Built production-style platforms with REST APIs, authentication, analytics, audit flows, and containerised deployment |
+| 🤖 Product Automation | Delivered workflow automation and decision-support pipelines that reduced manual processing time by **40%** and improved turnaround efficiency by **30%** |
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages, Frontend & Backend
+
+<img src="https://skillicons.dev/icons?i=python,java,ts,js,cs,react,nodejs,dotnet,spring,html,css,bootstrap" alt="Languages and frontend/backend icons" />
+
+### Data, Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,kubernetes,git,github,githubactions,azure,aws,linux,bash" alt="Data cloud and devops icons" />
+
+### AI, LLMs & Retrieval
+
+<p>
+  <img src="https://img.shields.io/badge/LLMs-LLaMA%20%7C%20BART%20%7C%20LoRA-7F00FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-Vector%20Search%20%7C%20Qdrant-00A67E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/APIs-REST%20%7C%20Semantic%20Scholar-0052CC?style=for-the-badge" />
+</p>
+
+</div>
+
+---
+
+## 🌟 Featured Work
+
+| Project | What it shows |
+|---|---|
+| 🧬 **Mediheal AI Biomedical Literature Assistant** | Full-stack AI research assistant with LLMs, RAG, vector search, PDF parsing, analytics, and export workflows |
+| 💰 [**Wealth Portfolio Planner**](https://github.com/AnuragPhukan/wealth-portfolio-planner) | Java 21, Spring Boot, React, TypeScript, PostgreSQL, MongoDB, Flyway, Docker, REST APIs |
+| 🏦 [**Digital Lending Platform**](https://github.com/AnuragPhukan/digital-lending-platform) | Full-stack backend workflow platform with authentication, role-based flows, dashboards, testing, and deployment-ready structure |
+| 📚 [**Research Studio**](https://github.com/AnuragPhukan/Research-Studio) | Research tooling, document workflows, and AI-assisted productivity |
+| 📄 [**ResumeDOG Landing**](https://github.com/AnuragPhukan/ResumeDOGLanding) | Landing page, product storytelling, UI presentation, and frontend delivery |
+| 🥐 [**Bakery Studio**](https://github.com/AnuragPhukan/Bakery-Studio) | UI development, responsive layout, and web styling |
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnuragPhukan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anurag's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragPhukan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/AnuragPhukan">
-    <img src="https://github-readme-stats.vercel.app/api?username=AnuragPhukan&show_icons=true&theme=radical" alt="AnuragPhukan's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragPhukan&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnuragPhukan&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+</div>
+
+---
+
+## 🏆 Honors & Awards
+
+- 🥇 **First Prize, UoN MedTech Innovation Competition 2025** for the Mediheal AI research summarisation platform.
+- 🥉 **Third Prize, Utkranti Hackathon, Gauhati University**.
+- 🎯 **Nottingham Advantage Award, Capital One Product Challenge**.
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="mailto:anuragphukanuk5@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/anurag-phukan-90b382191/">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/AnuragPhukan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragPhukan&theme=radical" alt="AnuragPhukan's GitHub streak" />
+    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
-<hr>
-
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working as an **Associate Developer** at the **University of Nottingham School of Computer Science**.
-- 🚀 My focus is on transitioning the **Mediheal AI platform** from a research prototype into a production-ready system. This involves refactoring the codebase, ensuring scalability, and migrating infrastructure to **Microsoft Azure** using Docker and CI/CD pipelines.
-- 💬 Ask me about **ReactJS with TypeScript, ASP.NET Core, SQL Server, and Microsoft Azure**.
-- 📫 How to reach me: **psxap11@nottingham.ac.uk**
-
-<hr>
-
-### 🛠️ My Technical Skills
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Languages:</strong><br>
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code> JavaScript
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript"></code> TypeScript
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#"></code> C#
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code> Python
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"></code> SQL
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></code> Java
-    </td>
-    <td valign="top" width="50%">
-      <strong>Front-End:</strong><br>
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="ReactJS"></code> ReactJS
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="Redux"></code> Redux
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code> HTML
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code> CSS/SASS
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"></code> Bootstrap
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Back-End:</strong><br>
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" alt=".NET"></code> ASP.NET Core
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"></code> Node.js
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/28b02446358a0ca44378f192b947c2bf3e520b98/topics/rest/rest.png" alt="REST"></code> REST
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="GraphQL"></code> GraphQL
-    </td>
-    <td valign="top" width="50%">
-      <strong>Cloud & DevOps:</strong><br>
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="Azure"></code> Microsoft Azure (AD, Functions, Blob Storage)
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure-devops/azure-devops.png" alt="Azure DevOps"></code> Azure DevOps CI/CD
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"></code> Docker
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code> Git
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-### 🏆 Honors and Awards
-
-- **First Prize, UoN MedTech Innovation Competition 2025**: Awarded for the Mediheal AI research summarization platform.
-- **Third Prize, Utkranti Hackathon, Gauhati University**.
-- **Nottingham Advantage Award, Capital One Product Challenge**.
-
-<hr>
-
-### 🤝 Connect with me
-
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30"/>](https://linkedin.com/in/anurag-phukan-90b382191/)
-[<img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" width="30"/>](https://github.com/AnuragPhukan)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=120&section=footer" />
+</div>
